@@ -1,0 +1,38 @@
+{
+	"customer":{
+		"fullName":"Jaison Jose",
+		"address": "Kerala",
+		"email": "jaba@gmail.com",
+		"cellNumber": 12345678,
+		"accounts":[
+			{   
+				"accountType":"Savings",
+				"balance": 1234.00
+			}
+		]
+		}
+}
+
+{
+	"customer":{
+		"fullName":"Josna Jose",
+		"address": "Kerala",
+		"email": "jabajaba@gmail.com",
+		"cellNumber": 1234567890,
+		"accounts":[
+			{   
+				"accountType":"Current",
+				"balance": 12345.00
+			}
+		]
+		}
+}
+
+{		
+		
+		{
+		"fromAccount":"2",
+		 "toAccount":"4",
+		 "amount":100.00
+		}
+}
